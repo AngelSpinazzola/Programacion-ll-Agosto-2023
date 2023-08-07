@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1691190868 source:c:\users\angel\onedrive\documentos\utn - angel\cuatrimestre - agosto 2023 - angel\programación ll\ejercicios para hacer despues de clase\primer_ejercicio_en_clase\main.cpp
+	<iostream>
+	"funciones.h"
+	"rlutil.h"
+	<locale>
+
+1691190879 c:\users\angel\onedrive\documentos\utn - angel\cuatrimestre - agosto 2023 - angel\programación ll\ejercicios para hacer despues de clase\primer_ejercicio_en_clase\funciones.h
+
+1691190930 source:c:\users\angel\onedrive\documentos\utn - angel\cuatrimestre - agosto 2023 - angel\programación ll\ejercicios para hacer despues de clase\primer_ejercicio_en_clase\funciones.cpp
+	<iostream>
+	"rlutil.h"
+	"funciones.h"
+
+1691178511 c:\users\angel\onedrive\documentos\utn - angel\cuatrimestre - agosto 2023 - angel\programación ll\ejercicios para hacer despues de clase\primer_ejercicio_en_clase\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
